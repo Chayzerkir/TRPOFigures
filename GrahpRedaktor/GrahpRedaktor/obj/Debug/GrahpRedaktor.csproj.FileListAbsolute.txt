@@ -1,0 +1,10 @@
+G:\TRPO\GrahpRedaktor\GrahpRedaktor\obj\Debug\GrahpRedaktor.csproj.AssemblyReference.cache
+G:\TRPO\GrahpRedaktor\GrahpRedaktor\obj\Debug\GraphicEditorXP.Form1.resources
+G:\TRPO\GrahpRedaktor\GrahpRedaktor\obj\Debug\GrahpRedaktor.Properties.Resources.resources
+G:\TRPO\GrahpRedaktor\GrahpRedaktor\obj\Debug\GrahpRedaktor.csproj.GenerateResource.cache
+G:\TRPO\GrahpRedaktor\GrahpRedaktor\obj\Debug\GrahpRedaktor.csproj.CoreCompileInputs.cache
+G:\TRPO\GrahpRedaktor\GrahpRedaktor\bin\Debug\GrahpRedaktor.exe.config
+G:\TRPO\GrahpRedaktor\GrahpRedaktor\bin\Debug\GrahpRedaktor.exe
+G:\TRPO\GrahpRedaktor\GrahpRedaktor\bin\Debug\GrahpRedaktor.pdb
+G:\TRPO\GrahpRedaktor\GrahpRedaktor\obj\Debug\GrahpRedaktor.exe
+G:\TRPO\GrahpRedaktor\GrahpRedaktor\obj\Debug\GrahpRedaktor.pdb
