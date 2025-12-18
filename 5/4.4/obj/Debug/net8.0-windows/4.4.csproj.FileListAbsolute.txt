@@ -1,0 +1,65 @@
+D:\Практика\4.4\4.4\obj\Debug\net8.0-windows\DrawingApplication.CanvasDrawing.resources
+D:\Практика\4.4\4.4\obj\Debug\net8.0-windows\4.4.csproj.GenerateResource.cache
+D:\Практика\4.4\4.4\obj\Debug\net8.0-windows\4.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\4.4\4.4\obj\Debug\net8.0-windows\4.4.AssemblyInfoInputs.cache
+D:\Практика\4.4\4.4\obj\Debug\net8.0-windows\4.4.AssemblyInfo.cs
+D:\Практика\4.4\4.4\obj\Debug\net8.0-windows\4.4.csproj.CoreCompileInputs.cache
+D:\Практика\4.4\4.4\bin\Debug\net8.0-windows\4.4.exe
+D:\Практика\4.4\4.4\bin\Debug\net8.0-windows\4.4.deps.json
+D:\Практика\4.4\4.4\bin\Debug\net8.0-windows\4.4.runtimeconfig.json
+D:\Практика\4.4\4.4\bin\Debug\net8.0-windows\4.4.dll
+D:\Практика\4.4\4.4\bin\Debug\net8.0-windows\4.4.pdb
+D:\Практика\4.4\4.4\obj\Debug\net8.0-windows\4.4.dll
+D:\Практика\4.4\4.4\obj\Debug\net8.0-windows\refint\4.4.dll
+D:\Практика\4.4\4.4\obj\Debug\net8.0-windows\4.4.pdb
+D:\Практика\4.4\4.4\obj\Debug\net8.0-windows\4.4.genruntimeconfig.cache
+D:\Практика\4.4\4.4\obj\Debug\net8.0-windows\ref\4.4.dll
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\bin\Debug\net8.0-windows\4.4.exe
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\bin\Debug\net8.0-windows\4.4.deps.json
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\bin\Debug\net8.0-windows\4.4.runtimeconfig.json
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\bin\Debug\net8.0-windows\4.4.dll
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\bin\Debug\net8.0-windows\4.4.pdb
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\obj\Debug\net8.0-windows\DrawingApplication.CanvasDrawing.resources
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\obj\Debug\net8.0-windows\4.4.csproj.GenerateResource.cache
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\obj\Debug\net8.0-windows\4.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\obj\Debug\net8.0-windows\4.4.AssemblyInfoInputs.cache
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\obj\Debug\net8.0-windows\4.4.AssemblyInfo.cs
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\obj\Debug\net8.0-windows\4.4.csproj.CoreCompileInputs.cache
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\obj\Debug\net8.0-windows\4.4.dll
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\obj\Debug\net8.0-windows\refint\4.4.dll
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\obj\Debug\net8.0-windows\4.4.pdb
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\obj\Debug\net8.0-windows\4.4.genruntimeconfig.cache
+C:\Users\Skele\OneDrive\Desktop\Модуль 4\Задание 5\4.4\obj\Debug\net8.0-windows\ref\4.4.dll
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\bin\Debug\net8.0-windows\4.4.exe
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\bin\Debug\net8.0-windows\4.4.deps.json
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\bin\Debug\net8.0-windows\4.4.runtimeconfig.json
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\bin\Debug\net8.0-windows\4.4.dll
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\bin\Debug\net8.0-windows\4.4.pdb
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\obj\Debug\net8.0-windows\DrawingApplication.CanvasDrawing.resources
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\obj\Debug\net8.0-windows\4.4.csproj.GenerateResource.cache
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\obj\Debug\net8.0-windows\4.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\obj\Debug\net8.0-windows\4.4.AssemblyInfoInputs.cache
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\obj\Debug\net8.0-windows\4.4.AssemblyInfo.cs
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\obj\Debug\net8.0-windows\4.4.csproj.CoreCompileInputs.cache
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\obj\Debug\net8.0-windows\4.4.dll
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\obj\Debug\net8.0-windows\refint\4.4.dll
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\obj\Debug\net8.0-windows\4.4.pdb
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\obj\Debug\net8.0-windows\4.4.genruntimeconfig.cache
+C:\Users\potee\Downloads\Модуль 4\Задание 4.5\4.4\obj\Debug\net8.0-windows\ref\4.4.dll
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\bin\Debug\net8.0-windows\4.4.exe
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\bin\Debug\net8.0-windows\4.4.deps.json
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\bin\Debug\net8.0-windows\4.4.runtimeconfig.json
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\bin\Debug\net8.0-windows\4.4.dll
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\bin\Debug\net8.0-windows\4.4.pdb
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\obj\Debug\net8.0-windows\DrawingApplication.CanvasDrawing.resources
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\obj\Debug\net8.0-windows\4.4.csproj.GenerateResource.cache
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\obj\Debug\net8.0-windows\4.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\obj\Debug\net8.0-windows\4.4.AssemblyInfoInputs.cache
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\obj\Debug\net8.0-windows\4.4.AssemblyInfo.cs
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\obj\Debug\net8.0-windows\4.4.csproj.CoreCompileInputs.cache
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\obj\Debug\net8.0-windows\4.4.sourcelink.json
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\obj\Debug\net8.0-windows\4.4.dll
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\obj\Debug\net8.0-windows\refint\4.4.dll
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\obj\Debug\net8.0-windows\4.4.pdb
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\obj\Debug\net8.0-windows\4.4.genruntimeconfig.cache
+C:\учеба\лабы отчеты\практика кпияп\диск практика\модуль 4\5\4.4\obj\Debug\net8.0-windows\ref\4.4.dll
